@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ATBMTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|e:\\atbmtt\\atbmtt\\elgamalprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|solutionrelative:atbmtt\\elgamalprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|e:\\atbmtt\\atbmtt\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|solutionrelative:atbmtt\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|E:\\ATBMTT\\atbmtt\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|solutionrelative:atbmtt\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|e:\\atbmtt\\atbmtt\\atbmtt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|solutionrelative:atbmtt\\atbmtt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|e:\\atbmtt\\atbmtt\\elgamal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08972A-4D13-474C-BD84-B07386296BA7}|ATBMTT\\ATBMTT.csproj|solutionrelative:atbmtt\\elgamal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Elgamal.Designer.cs",
+              "DocumentMoniker": "E:\\ATBMTT\\ATBMTT\\Elgamal.Designer.cs",
+              "RelativeDocumentMoniker": "ATBMTT\\Elgamal.Designer.cs",
+              "ToolTip": "E:\\ATBMTT\\ATBMTT\\Elgamal.Designer.cs",
+              "RelativeToolTip": "ATBMTT\\Elgamal.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMgBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:57:59.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ATBMTT.csproj",
+              "DocumentMoniker": "E:\\ATBMTT\\ATBMTT\\ATBMTT.csproj",
+              "RelativeDocumentMoniker": "ATBMTT\\ATBMTT.csproj",
+              "ToolTip": "E:\\ATBMTT\\ATBMTT\\ATBMTT.csproj",
+              "RelativeToolTip": "ATBMTT\\ATBMTT.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T10:35:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElgamalProcess.cs",
+              "DocumentMoniker": "E:\\ATBMTT\\ATBMTT\\ElgamalProcess.cs",
+              "RelativeDocumentMoniker": "ATBMTT\\ElgamalProcess.cs",
+              "ToolTip": "E:\\ATBMTT\\ATBMTT\\ElgamalProcess.cs",
+              "RelativeToolTip": "ATBMTT\\ElgamalProcess.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAIwMAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:35:48.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elgamal.cs [Design]",
+              "DocumentMoniker": "E:\\ATBMTT\\ATBMTT\\Elgamal.cs",
+              "RelativeDocumentMoniker": "ATBMTT\\Elgamal.cs",
+              "ToolTip": "E:\\ATBMTT\\ATBMTT\\Elgamal.cs [Design]",
+              "RelativeToolTip": "ATBMTT\\Elgamal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:35:48.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elgamal.cs",
+              "DocumentMoniker": "E:\\ATBMTT\\ATBMTT\\Elgamal.cs",
+              "RelativeDocumentMoniker": "ATBMTT\\Elgamal.cs",
+              "ToolTip": "E:\\ATBMTT\\ATBMTT\\Elgamal.cs",
+              "RelativeToolTip": "ATBMTT\\Elgamal.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAiwKAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:35:48.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
